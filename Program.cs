@@ -4,5 +4,5 @@ Console.WriteLine("Ogrenilecek Konular:");
 
 foreach (string konu in konular)
 {
-    Console.WriteLine("- " + konu);
+    Console.WriteLine("-1 " + konu);
 }
